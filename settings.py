@@ -48,8 +48,7 @@ UNARY_OPERS = [
 
 # Computational bounds in order to prevent overflow errors.
 # Must be 0 <= MIN_BOUND < MAX_BOUND.
-# Going below 0 is usually pointless, as any negative number can 
-# simply be its positive version negated
+# Going below 0 is usually pointless, as any negative number can simply be its positive version negated
 MAX_BOUND = 1000
 MIN_BOUND = 0
 assert 0 <= MIN_BOUND < MAX_BOUND

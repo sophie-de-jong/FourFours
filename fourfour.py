@@ -82,6 +82,7 @@ class FourFours:
 		return all((
 			x not in self.current_table,
 			x.is_integer(),
+			not math.isnan(x),
 			x >= MIN_BOUND,
 			x <= MAX_BOUND,
 		))
