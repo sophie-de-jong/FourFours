@@ -1,0 +1,1015 @@
+--------------------------------------------------
+4 4's solutions
+--------------------------------------------------
+395/1000 solutions found (39.50%)
+
+Operators used:
+x+y
+x-y
+x*y
+x/y
+x**y
+sqrt(x)
+x!
+--------------------------------------------------
+0 = ((4+4)-4)-4
+1 = ((4+4)-4)/4
+2 = (44+4)/4!
+3 = ((4+4)+4)/4
+4 = ((4+4)*4)**.4
+5 = (44-4!)/4
+6 = ((4+4)+4)/sqrt(4)
+7 = (44/4)-4
+8 = (44-4!)*.4
+9 = (44/4)-sqrt(4)
+10 = (44-4)/4
+11 = (44/sqrt(4))/sqrt(4)
+12 = (44+4)/4
+13 = (44/4)+sqrt(4)
+14 = ((4+4)+4)+sqrt(4)
+15 = (44/4)+4
+16 = (44-4)*.4
+17 = (44+4!)/4
+18 = (44-sqrt(4))-4!
+19 = ((4+sqrt(4))/.4)+4
+20 = (44-4)/sqrt(4)
+21 = (44-sqrt(4))/sqrt(4)
+22 = (44/4)*sqrt(4)
+23 = (44+sqrt(4))/sqrt(4)
+24 = (44+4)/sqrt(4)
+25 = ((4+4)+sqrt(4))/.4
+26 = (44/sqrt(4))+4
+27 = ((4/4)+sqrt(4))+4!
+28 = ((4+4)-4)+4!
+29 = ((4/4)+4)+4!
+30 = ((4+4)+4)/.4
+31 = ((4+4!)/4)+4!
+32 = ((4+4)*sqrt(4))*sqrt(4)
+33 = ((sqrt(4)/.4)+4)+4!
+34 = (44+4!)/sqrt(4)
+35 = (44/4)+4!
+36 = (44-4)-4
+37 = ((sqrt(4)+4!)/sqrt(4))+4!
+38 = (44-4)-sqrt(4)
+39 = ((4+sqrt(4))/.4)+4!
+40 = (44-sqrt(4))-sqrt(4)
+41 = ((sqrt(4)+4!)/.4)-4!
+42 = (44-4)+sqrt(4)
+43 = (4!-(sqrt(4)/.4))+4!
+44 = (44+4)-4
+45 = ((4*4)+sqrt(4))/.4
+46 = (44+4)-sqrt(4)
+47 = ((4*4!)-sqrt(4))/sqrt(4)
+48 = (44+sqrt(4))+sqrt(4)
+49 = ((4/4)+4!)+4!
+50 = (44+4)+sqrt(4)
+51 = ((4!-sqrt(4))/.4)-4
+52 = (44+4)+4
+53 = ((sqrt(4)/.4)+4!)+4!
+54 = ((4+sqrt(4))+4!)+4!
+55 = (44/.4)/sqrt(4)
+56 = ((4+4)*4)+4!
+57 = ((4!-sqrt(4))/.4)+sqrt(4)
+58 = ((4**4)-4!)/4
+59 = ((4!-sqrt(4))/.4)+4
+60 = ((4+4)**sqrt(4))-4
+61 = ((sqrt(4)+4!)/.4)-4
+62 = ((4+4)**sqrt(4))-sqrt(4)
+63 = ((4**4)-4)/4
+64 = (44-4)+4!
+65 = ((4**4)+4)/4
+66 = (44-sqrt(4))+4!
+67 = ((sqrt(4)+4!)/.4)+sqrt(4)
+68 = ((4+4)**sqrt(4))+4
+69 = ((sqrt(4)+4!)/.4)+4
+70 = (44+sqrt(4))+4!
+71: no solution found
+72 = (44+4)+4!
+73: no solution found
+74 = ((4+4!)/.4)+4
+75 = ((4+sqrt(4))+4!)/.4
+76 = ((4/.4)**sqrt(4))-4!
+77: no solution found
+78 = ((4!-4)*4)-sqrt(4)
+79 = ((4!-sqrt(4))/.4)+4!
+80 = (44-4)*sqrt(4)
+81 = ((4/4)+sqrt(4))**4
+82 = ((4!-4)*4)+sqrt(4)
+83: no solution found
+84 = (44-sqrt(4))*sqrt(4)
+85 = ((4/.4)+4!)/.4
+86 = (44/.4)-4!
+87: no solution found
+88 = (44*4)/sqrt(4)
+89 = ((sqrt(4)+4!)/.4)+4!
+90 = (44*sqrt(4))+sqrt(4)
+91 = (4*4!)-(sqrt(4)/.4)
+92 = (44+sqrt(4))*sqrt(4)
+93: no solution found
+94 = ((4+4!)/.4)+4!
+95 = (4*4!)-(4/4)
+96 = (44+4)*sqrt(4)
+97 = (4/4)+(4*4!)
+98 = ((4/.4)**sqrt(4))-sqrt(4)
+99: no solution found
+100 = (44-4)/.4
+101 = (4*4!)+(sqrt(4)/.4)
+102 = ((4/.4)**sqrt(4))+sqrt(4)
+103: no solution found
+104 = ((4**4)+4)*.4
+105 = (44-sqrt(4))/.4
+106 = (44/.4)-4
+107: no solution found
+108 = (44/.4)-sqrt(4)
+109: no solution found
+110 = ((4+4!)*4)-sqrt(4)
+111 = 444/4
+112 = (44/.4)+sqrt(4)
+113: no solution found
+114 = (44/.4)+4
+115 = (44+sqrt(4))/.4
+116 = ((4**4)-4!)/sqrt(4)
+117: no solution found
+118 = ((4*4!)-sqrt(4))+4!
+119 = ((sqrt(4)/.4)!)-(4/4)
+120 = (44+4)/.4
+121 = (44/4)**sqrt(4)
+122 = ((4*4!)+sqrt(4))+4!
+123: no solution found
+124 = ((4**4)/sqrt(4))-4
+125 = ((sqrt(4)+4!)+4!)/.4
+126 = ((4**4)-4)/sqrt(4)
+127 = ((4**4)-sqrt(4))/sqrt(4)
+128 = ((4+4)*4)*4
+129 = ((4**4)+sqrt(4))/sqrt(4)
+130 = ((4**4)+4)/sqrt(4)
+131: no solution found
+132 = ((4**4)/sqrt(4))+4
+133: no solution found
+134 = (44/.4)+4!
+135: no solution found
+136 = (44+4!)*sqrt(4)
+137: no solution found
+138 = ((4!**sqrt(4))-4!)/4
+139: no solution found
+140 = ((4**4)+4!)/sqrt(4)
+141: no solution found
+142 = ((4+sqrt(4))*4!)-sqrt(4)
+143 = ((4!**sqrt(4))-4)/4
+144 = ((4+4)+4)**sqrt(4)
+145 = ((4!/.4)-sqrt(4))/.4
+146 = ((4+sqrt(4))*4!)+sqrt(4)
+147: no solution found
+148 = ((4+sqrt(4))*4!)+4
+149: no solution found
+150 = ((4!**sqrt(4))+4!)/4
+151: no solution found
+152 = (44*4)-4!
+153: no solution found
+154 = ((4!/.4)/.4)+4
+155 = ((4!/.4)+sqrt(4))/.4
+156 = ((sqrt(4)+4!)*4!)/4
+157: no solution found
+158: no solution found
+159: no solution found
+160 = (44-4)*4
+161: no solution found
+162: no solution found
+163: no solution found
+164 = 44+((sqrt(4)/.4)!)
+165: no solution found
+166: no solution found
+167: no solution found
+168 = (44-sqrt(4))*4
+169 = ((sqrt(4)+4!)/sqrt(4))**sqrt(4)
+170 = (44+4!)/.4
+171: no solution found
+172 = (44*4)-4
+173: no solution found
+174 = (44*4)-sqrt(4)
+175 = ((4+4!)/.4)/.4
+176 = (44*sqrt(4))*sqrt(4)
+177: no solution found
+178 = (44*4)+sqrt(4)
+179 = (((4+sqrt(4))!)-4)/4
+180 = (44*4)+4
+181 = (((4+sqrt(4))!)+4)/4
+182 = (((4+sqrt(4))!)/4)+sqrt(4)
+183: no solution found
+184 = (44+sqrt(4))*4
+185: no solution found
+186 = (((4+sqrt(4))!)+4!)/4
+187: no solution found
+188 = ((4+4)*4!)-4
+189: no solution found
+190 = ((4+4)*4!)-sqrt(4)
+191: no solution found
+192 = (44+4)*4
+193: no solution found
+194 = ((4+4)*4!)+sqrt(4)
+195: no solution found
+196 = ((4+4)*4!)+4
+197: no solution found
+198: no solution found
+199: no solution found
+200 = (44*4)+4!
+201: no solution found
+202: no solution found
+203: no solution found
+204 = (((4+sqrt(4))!)/4)+4!
+205: no solution found
+206: no solution found
+207: no solution found
+208 = ((4**4)-4!)-4!
+209: no solution found
+210 = ((4!/.4)+4!)/.4
+211: no solution found
+212 = (4**4)-44
+213: no solution found
+214: no solution found
+215: no solution found
+216 = ((4+4)*4!)+4!
+217: no solution found
+218: no solution found
+219: no solution found
+220 = (44/.4)*sqrt(4)
+221: no solution found
+222 = 444/sqrt(4)
+223: no solution found
+224 = ((4+4!)*4)*sqrt(4)
+225 = ((4+sqrt(4))/.4)**sqrt(4)
+226: no solution found
+227: no solution found
+228 = ((4**4)-4)-4!
+229: no solution found
+230 = ((4**4)-sqrt(4))-4!
+231: no solution found
+232 = ((4*4)**sqrt(4))-4!
+233: no solution found
+234 = ((4**4)+sqrt(4))-4!
+235 = ((4*4!)-sqrt(4))/.4
+236 = ((4**4)+4)-4!
+237: no solution found
+238 = ((4/.4)*4!)-sqrt(4)
+239: no solution found
+240 = ((4+4)+sqrt(4))*4!
+241: no solution found
+242 = ((4/.4)*4!)+sqrt(4)
+243: no solution found
+244 = ((4/.4)*4!)+4
+245 = ((4*4!)+sqrt(4))/.4
+246 = (4**4)-(4/.4)
+247: no solution found
+248 = ((4**4)-4)-4
+249: no solution found
+250 = ((4**4)-4)-sqrt(4)
+251 = (4**4)-(sqrt(4)/.4)
+252 = ((4*4)**sqrt(4))-4
+253: no solution found
+254 = ((4*4)**sqrt(4))-sqrt(4)
+255 = (4**4)-(4/4)
+256 = ((4+4)-4)**4
+257 = (4/4)+(4**4)
+258 = ((4*4)**sqrt(4))+sqrt(4)
+259: no solution found
+260 = ((4*4)**sqrt(4))+4
+261 = (4**4)+(sqrt(4)/.4)
+262 = ((4**4)+4)+sqrt(4)
+263: no solution found
+264 = (44/4)*4!
+265: no solution found
+266 = (4**4)+(4/.4)
+267: no solution found
+268 = (4**4)+(4!/sqrt(4))
+269: no solution found
+270: no solution found
+271: no solution found
+272 = (44+4!)*4
+273: no solution found
+274: no solution found
+275 = (44/.4)/.4
+276 = ((4**4)-4)+4!
+277: no solution found
+278 = ((4**4)-sqrt(4))+4!
+279: no solution found
+280 = ((4*4)**sqrt(4))+4!
+281: no solution found
+282 = ((4**4)+sqrt(4))+4!
+283: no solution found
+284 = ((4**4)+4)+4!
+285: no solution found
+286 = ((4!/sqrt(4))*4!)-sqrt(4)
+287 = ((4!**sqrt(4))-sqrt(4))/sqrt(4)
+288 = ((4+4)+4)*4!
+289 = ((4!**sqrt(4))+sqrt(4))/sqrt(4)
+290 = ((4!/sqrt(4))*4!)+sqrt(4)
+291: no solution found
+292 = ((4!/sqrt(4))*4!)+4
+293: no solution found
+294: no solution found
+295 = (((sqrt(4)/.4)!)-sqrt(4))/.4
+296 = (((sqrt(4)/.4)!)/.4)-4
+297: no solution found
+298 = (((sqrt(4)/.4)!)/.4)-sqrt(4)
+299: no solution found
+300 = ((4*4!)+4!)/.4
+301: no solution found
+302 = (((sqrt(4)/.4)!)/.4)+sqrt(4)
+303: no solution found
+304 = ((4**4)+4!)+4!
+305 = (((sqrt(4)/.4)!)+sqrt(4))/.4
+306: no solution found
+307: no solution found
+308: no solution found
+309: no solution found
+310 = (((sqrt(4)/.4)!)+4)/.4
+311: no solution found
+312 = ((sqrt(4)+4!)/sqrt(4))*4!
+313: no solution found
+314: no solution found
+315: no solution found
+316 = (4**4)+(4!/.4)
+317: no solution found
+318: no solution found
+319: no solution found
+320 = ((4**4)/.4)/sqrt(4)
+321: no solution found
+322: no solution found
+323: no solution found
+324 = ((4*4)+sqrt(4))**sqrt(4)
+325: no solution found
+326: no solution found
+327: no solution found
+328: no solution found
+329: no solution found
+330: no solution found
+331: no solution found
+332: no solution found
+333: no solution found
+334: no solution found
+335: no solution found
+336 = ((4*4)-sqrt(4))*4!
+337: no solution found
+338 = ((sqrt(4)+4!)**sqrt(4))/sqrt(4)
+339: no solution found
+340: no solution found
+341: no solution found
+342: no solution found
+343: no solution found
+344: no solution found
+345: no solution found
+346: no solution found
+347: no solution found
+348 = (((4+sqrt(4))!)-4!)/sqrt(4)
+349: no solution found
+350: no solution found
+351: no solution found
+352 = (44*4)*sqrt(4)
+353: no solution found
+354: no solution found
+355: no solution found
+356 = (((4+sqrt(4))!)/sqrt(4))-4
+357: no solution found
+358 = (((4+sqrt(4))!)-4)/sqrt(4)
+359 = (((4+sqrt(4))!)-sqrt(4))/sqrt(4)
+360 = ((4*4)*4!)-4!
+361 = (((4+sqrt(4))!)+sqrt(4))/sqrt(4)
+362 = (((4+sqrt(4))!)+4)/sqrt(4)
+363: no solution found
+364 = (((4+sqrt(4))!)/sqrt(4))+4
+365: no solution found
+366: no solution found
+367: no solution found
+368 = ((4*4!)-4)*4
+369: no solution found
+370: no solution found
+371: no solution found
+372 = (((4+sqrt(4))!)+4!)/sqrt(4)
+373: no solution found
+374: no solution found
+375 = ((4!/.4)/.4)/.4
+376 = ((4*4!)-sqrt(4))*4
+377: no solution found
+378: no solution found
+379: no solution found
+380 = ((4*4)*4!)-4
+381: no solution found
+382 = ((4*4)*4!)-sqrt(4)
+383: no solution found
+384 = ((4+4)*sqrt(4))*4!
+385: no solution found
+386 = ((4*4)*4!)+sqrt(4)
+387: no solution found
+388 = ((4*4)*4!)+4
+389: no solution found
+390: no solution found
+391: no solution found
+392 = ((4+4!)**sqrt(4))/sqrt(4)
+393: no solution found
+394: no solution found
+395: no solution found
+396 = ((4!-4)**sqrt(4))-4
+397: no solution found
+398 = ((4!-4)**sqrt(4))-sqrt(4)
+399: no solution found
+400 = (44-4!)**sqrt(4)
+401: no solution found
+402 = ((4!-4)**sqrt(4))+sqrt(4)
+403: no solution found
+404 = ((4!-4)**sqrt(4))+4
+405: no solution found
+406: no solution found
+407: no solution found
+408 = ((4*4)*4!)+4!
+409: no solution found
+410: no solution found
+411: no solution found
+412: no solution found
+413: no solution found
+414: no solution found
+415: no solution found
+416 = ((sqrt(4)+4!)*4)*4
+417: no solution found
+418: no solution found
+419: no solution found
+420 = 444-4!
+421: no solution found
+422: no solution found
+423: no solution found
+424 = ((4!-4)**sqrt(4))+4!
+425: no solution found
+426: no solution found
+427: no solution found
+428: no solution found
+429: no solution found
+430: no solution found
+431: no solution found
+432 = ((4*4)+sqrt(4))*4!
+433: no solution found
+434: no solution found
+435: no solution found
+436: no solution found
+437: no solution found
+438: no solution found
+439: no solution found
+440 = 444-4
+441: no solution found
+442 = 444-sqrt(4)
+443: no solution found
+444: no solution found
+445: no solution found
+446 = 444+sqrt(4)
+447: no solution found
+448 = 444+4
+449: no solution found
+450 = (((4+sqrt(4))!)/4)/.4
+451: no solution found
+452: no solution found
+453: no solution found
+454: no solution found
+455: no solution found
+456 = ((4!-4)*4!)-4!
+457: no solution found
+458: no solution found
+459: no solution found
+460 = ((4!-sqrt(4))**sqrt(4))-4!
+461: no solution found
+462: no solution found
+463: no solution found
+464 = ((4**4)-4!)*sqrt(4)
+465: no solution found
+466: no solution found
+467: no solution found
+468 = 444+4!
+469: no solution found
+470: no solution found
+471: no solution found
+472 = (((sqrt(4)/.4)!)-sqrt(4))*4
+473: no solution found
+474: no solution found
+475: no solution found
+476 = ((4!-4)*4!)-4
+477: no solution found
+478 = ((4!-4)*4!)-sqrt(4)
+479: no solution found
+480 = (44-4!)*4!
+481: no solution found
+482 = ((4!-4)*4!)+sqrt(4)
+483: no solution found
+484 = (44/sqrt(4))**sqrt(4)
+485: no solution found
+486 = ((4!-sqrt(4))**sqrt(4))+sqrt(4)
+487: no solution found
+488 = ((4**4)*sqrt(4))-4!
+489: no solution found
+490: no solution found
+491: no solution found
+492: no solution found
+493: no solution found
+494: no solution found
+495: no solution found
+496 = (((sqrt(4)/.4)!)+4)*4
+497: no solution found
+498: no solution found
+499: no solution found
+500: no solution found
+501: no solution found
+502: no solution found
+503: no solution found
+504 = ((4**4)-4)*sqrt(4)
+505: no solution found
+506: no solution found
+507: no solution found
+508 = ((4**4)-sqrt(4))*sqrt(4)
+509: no solution found
+510 = ((4**4)*sqrt(4))-sqrt(4)
+511: no solution found
+512 = ((4*4)**sqrt(4))*sqrt(4)
+513: no solution found
+514 = ((4**4)*sqrt(4))+sqrt(4)
+515: no solution found
+516 = ((4**4)+sqrt(4))*sqrt(4)
+517: no solution found
+518: no solution found
+519: no solution found
+520 = ((4**4)+4)*sqrt(4)
+521: no solution found
+522: no solution found
+523: no solution found
+524 = ((4!-sqrt(4))*4!)-4
+525: no solution found
+526 = ((4!-sqrt(4))*4!)-sqrt(4)
+527: no solution found
+528 = (44/sqrt(4))*4!
+529 = (4!-(4/4))**sqrt(4)
+530 = ((4!-sqrt(4))*4!)+sqrt(4)
+531: no solution found
+532 = ((4!-sqrt(4))*4!)+4
+533: no solution found
+534: no solution found
+535: no solution found
+536 = ((4**4)*sqrt(4))+4!
+537: no solution found
+538: no solution found
+539: no solution found
+540: no solution found
+541: no solution found
+542: no solution found
+543: no solution found
+544: no solution found
+545: no solution found
+546: no solution found
+547: no solution found
+548 = ((4!**sqrt(4))-4)-4!
+549: no solution found
+550 = ((4!**sqrt(4))-sqrt(4))-4!
+551: no solution found
+552 = ((4!-sqrt(4))*4!)+4!
+553: no solution found
+554 = ((4!**sqrt(4))+sqrt(4))-4!
+555: no solution found
+556 = ((4!**sqrt(4))+4)-4!
+557: no solution found
+558: no solution found
+559: no solution found
+560 = ((4**4)+4!)*sqrt(4)
+561: no solution found
+562: no solution found
+563: no solution found
+564 = (4!**sqrt(4))-(4!/sqrt(4))
+565: no solution found
+566 = (4!**sqrt(4))-(4/.4)
+567: no solution found
+568 = ((4!**sqrt(4))-4)-4
+569: no solution found
+570 = ((4!**sqrt(4))-4)-sqrt(4)
+571 = (4!**sqrt(4))-(sqrt(4)/.4)
+572 = ((4!**sqrt(4))-sqrt(4))-sqrt(4)
+573: no solution found
+574 = ((4!**sqrt(4))-4)+sqrt(4)
+575 = (4!**sqrt(4))-(4/4)
+576 = ((4-4)+4!)**sqrt(4)
+577 = (4/4)+(4!**sqrt(4))
+578 = ((4!**sqrt(4))+4)-sqrt(4)
+579: no solution found
+580 = ((4**4)-4!)/.4
+581 = (sqrt(4)/.4)+(4!**sqrt(4))
+582 = ((4!**sqrt(4))+4)+sqrt(4)
+583: no solution found
+584 = ((4!**sqrt(4))+4)+4
+585: no solution found
+586 = (4/.4)+(4!**sqrt(4))
+587: no solution found
+588 = (4!/sqrt(4))+(4!**sqrt(4))
+589: no solution found
+590: no solution found
+591: no solution found
+592 = (4*4)+(4!**sqrt(4))
+593: no solution found
+594: no solution found
+595: no solution found
+596 = ((4!**sqrt(4))-4)+4!
+597: no solution found
+598 = ((4!**sqrt(4))-sqrt(4))+4!
+599: no solution found
+600 = ((4/4)+4!)*4!
+601 = ((sqrt(4)/.4)**4)-4!
+602 = ((4!**sqrt(4))+sqrt(4))+4!
+603: no solution found
+604 = ((4!**sqrt(4))+4)+4!
+605: no solution found
+606: no solution found
+607: no solution found
+608: no solution found
+609: no solution found
+610: no solution found
+611: no solution found
+612: no solution found
+613: no solution found
+614: no solution found
+615: no solution found
+616 = ((4**4)/.4)-4!
+617: no solution found
+618: no solution found
+619: no solution found
+620 = ((sqrt(4)+4!)*4!)-4
+621 = ((sqrt(4)/.4)**4)-4
+622 = ((sqrt(4)+4!)*4!)-sqrt(4)
+623 = ((sqrt(4)/.4)**4)-sqrt(4)
+624 = ((4-sqrt(4))+4!)*4!
+625 = ((4/4)+4)**4
+626 = ((sqrt(4)+4!)*4!)+sqrt(4)
+627 = ((sqrt(4)/.4)**4)+sqrt(4)
+628 = ((sqrt(4)+4!)*4!)+4
+629 = ((sqrt(4)/.4)**4)+4
+630 = ((4**4)-4)/.4
+631: no solution found
+632: no solution found
+633: no solution found
+634: no solution found
+635 = ((4**4)-sqrt(4))/.4
+636 = ((4**4)/.4)-4
+637: no solution found
+638 = ((4**4)/.4)-sqrt(4)
+639: no solution found
+640 = ((4*4)**sqrt(4))/.4
+641: no solution found
+642 = ((4**4)/.4)+sqrt(4)
+643: no solution found
+644 = ((4**4)/.4)+4
+645 = ((4**4)+sqrt(4))/.4
+646: no solution found
+647: no solution found
+648 = ((4+4!)*4!)-4!
+649 = ((sqrt(4)/.4)**4)+4!
+650 = ((4**4)+4)/.4
+651: no solution found
+652 = ((sqrt(4)+4!)**sqrt(4))-4!
+653: no solution found
+654: no solution found
+655: no solution found
+656: no solution found
+657: no solution found
+658: no solution found
+659: no solution found
+660 = ((4+sqrt(4))!)-(4!/.4)
+661: no solution found
+662: no solution found
+663: no solution found
+664 = ((4**4)/.4)+4!
+665: no solution found
+666: no solution found
+667: no solution found
+668 = ((4+4!)*4!)-4
+669: no solution found
+670 = ((4+4!)*4!)-sqrt(4)
+671: no solution found
+672 = ((sqrt(4)+sqrt(4))+4!)*4!
+673: no solution found
+674 = ((4+4!)*4!)+sqrt(4)
+675: no solution found
+676 = ((4-sqrt(4))+4!)**sqrt(4)
+677: no solution found
+678 = ((sqrt(4)+4!)**sqrt(4))+sqrt(4)
+679: no solution found
+680 = ((sqrt(4)+4!)**sqrt(4))+4
+681: no solution found
+682: no solution found
+683: no solution found
+684: no solution found
+685: no solution found
+686: no solution found
+687: no solution found
+688: no solution found
+689: no solution found
+690: no solution found
+691: no solution found
+692 = (((4+sqrt(4))!)-4)-4!
+693: no solution found
+694 = (((4+sqrt(4))!)-sqrt(4))-4!
+695: no solution found
+696 = ((4+4!)*4!)+4!
+697: no solution found
+698 = (((4+sqrt(4))!)+sqrt(4))-4!
+699: no solution found
+700 = ((4**4)+4!)/.4
+701: no solution found
+702: no solution found
+703: no solution found
+704 = (44*4)*4
+705: no solution found
+706: no solution found
+707: no solution found
+708 = ((4+sqrt(4))!)-(4!/sqrt(4))
+709: no solution found
+710 = ((4+sqrt(4))!)-(4/.4)
+711: no solution found
+712 = (((4+sqrt(4))!)-4)-4
+713: no solution found
+714 = (((4+sqrt(4))!)-4)-sqrt(4)
+715 = ((4+sqrt(4))!)-(sqrt(4)/.4)
+716 = (((4+sqrt(4))!)-sqrt(4))-sqrt(4)
+717: no solution found
+718 = (((4+sqrt(4))!)-4)+sqrt(4)
+719 = ((4+sqrt(4))!)-(4/4)
+720 = ((4+sqrt(4))+4!)*4!
+721 = (4/4)+((4+sqrt(4))!)
+722 = (((4+sqrt(4))!)+4)-sqrt(4)
+723: no solution found
+724 = (((4+sqrt(4))!)+sqrt(4))+sqrt(4)
+725 = (sqrt(4)/.4)+((4+sqrt(4))!)
+726 = (((4+sqrt(4))!)+4)+sqrt(4)
+727: no solution found
+728 = (((4+sqrt(4))!)+4)+4
+729: no solution found
+730 = (4/.4)+((4+sqrt(4))!)
+731: no solution found
+732 = (4!/sqrt(4))+((4+sqrt(4))!)
+733: no solution found
+734: no solution found
+735: no solution found
+736 = (4*4)+((4+sqrt(4))!)
+737: no solution found
+738: no solution found
+739: no solution found
+740 = (((4+sqrt(4))!)-4)+4!
+741: no solution found
+742 = (((4+sqrt(4))!)-sqrt(4))+4!
+743: no solution found
+744 = (((4+4)-sqrt(4))!)+4!
+745: no solution found
+746 = (((4+sqrt(4))!)+sqrt(4))+4!
+747: no solution found
+748 = (((4+sqrt(4))!)+4)+4!
+749: no solution found
+750 = (((sqrt(4)/.4)!)/.4)/.4
+751: no solution found
+752: no solution found
+753: no solution found
+754: no solution found
+755: no solution found
+756: no solution found
+757: no solution found
+758: no solution found
+759: no solution found
+760 = ((4+4!)**sqrt(4))-4!
+761: no solution found
+762: no solution found
+763: no solution found
+764 = 44+((4+sqrt(4))!)
+765: no solution found
+766: no solution found
+767: no solution found
+768 = ((4+4)*4)*4!
+769: no solution found
+770: no solution found
+771: no solution found
+772: no solution found
+773: no solution found
+774: no solution found
+775: no solution found
+776: no solution found
+777: no solution found
+778: no solution found
+779: no solution found
+780 = ((4+4!)**sqrt(4))-4
+781: no solution found
+782 = ((4+4!)**sqrt(4))-sqrt(4)
+783: no solution found
+784 = ((sqrt(4)+sqrt(4))+4!)**sqrt(4)
+785: no solution found
+786 = ((4+4!)**sqrt(4))+sqrt(4)
+787: no solution found
+788 = ((4+4!)**sqrt(4))+4
+789: no solution found
+790: no solution found
+791: no solution found
+792: no solution found
+793: no solution found
+794: no solution found
+795: no solution found
+796: no solution found
+797: no solution found
+798: no solution found
+799: no solution found
+800 = ((4!-4)**sqrt(4))*sqrt(4)
+801: no solution found
+802: no solution found
+803: no solution found
+804: no solution found
+805: no solution found
+806: no solution found
+807: no solution found
+808 = ((4+4!)**sqrt(4))+4!
+809: no solution found
+810: no solution found
+811: no solution found
+812: no solution found
+813: no solution found
+814: no solution found
+815: no solution found
+816 = ((4/.4)+4!)*4!
+817: no solution found
+818: no solution found
+819: no solution found
+820: no solution found
+821: no solution found
+822: no solution found
+823: no solution found
+824: no solution found
+825: no solution found
+826: no solution found
+827: no solution found
+828: no solution found
+829: no solution found
+830: no solution found
+831: no solution found
+832 = (4**4)+(4!**sqrt(4))
+833: no solution found
+834: no solution found
+835: no solution found
+836: no solution found
+837: no solution found
+838: no solution found
+839: no solution found
+840 = ((4+sqrt(4))!)+((sqrt(4)/.4)!)
+841 = ((sqrt(4)/.4)+4!)**sqrt(4)
+842: no solution found
+843: no solution found
+844: no solution found
+845: no solution found
+846: no solution found
+847: no solution found
+848: no solution found
+849: no solution found
+850: no solution found
+851: no solution found
+852: no solution found
+853: no solution found
+854: no solution found
+855: no solution found
+856: no solution found
+857: no solution found
+858: no solution found
+859: no solution found
+860: no solution found
+861: no solution found
+862: no solution found
+863: no solution found
+864 = ((4+sqrt(4))**sqrt(4))*4!
+865: no solution found
+866: no solution found
+867: no solution found
+868: no solution found
+869: no solution found
+870: no solution found
+871: no solution found
+872: no solution found
+873: no solution found
+874: no solution found
+875: no solution found
+876: no solution found
+877: no solution found
+878: no solution found
+879: no solution found
+880 = 44*(4!-4)
+881: no solution found
+882: no solution found
+883: no solution found
+884: no solution found
+885: no solution found
+886: no solution found
+887: no solution found
+888 = 444*sqrt(4)
+889: no solution found
+890: no solution found
+891: no solution found
+892: no solution found
+893: no solution found
+894: no solution found
+895: no solution found
+896: no solution found
+897: no solution found
+898: no solution found
+899: no solution found
+900 = ((4+sqrt(4))+4!)**sqrt(4)
+901: no solution found
+902: no solution found
+903: no solution found
+904: no solution found
+905: no solution found
+906: no solution found
+907: no solution found
+908: no solution found
+909: no solution found
+910: no solution found
+911: no solution found
+912: no solution found
+913: no solution found
+914: no solution found
+915: no solution found
+916: no solution found
+917: no solution found
+918: no solution found
+919: no solution found
+920: no solution found
+921: no solution found
+922: no solution found
+923: no solution found
+924: no solution found
+925: no solution found
+926: no solution found
+927: no solution found
+928 = ((4**4)-4!)*4
+929: no solution found
+930: no solution found
+931: no solution found
+932: no solution found
+933: no solution found
+934: no solution found
+935: no solution found
+936: no solution found
+937: no solution found
+938: no solution found
+939: no solution found
+940: no solution found
+941: no solution found
+942: no solution found
+943: no solution found
+944: no solution found
+945: no solution found
+946: no solution found
+947: no solution found
+948: no solution found
+949: no solution found
+950: no solution found
+951: no solution found
+952: no solution found
+953: no solution found
+954: no solution found
+955: no solution found
+956: no solution found
+957: no solution found
+958: no solution found
+959: no solution found
+960 = (44-4)*4!
+961: no solution found
+962: no solution found
+963: no solution found
+964: no solution found
+965: no solution found
+966: no solution found
+967: no solution found
+968 = ((4!-sqrt(4))**sqrt(4))*sqrt(4)
+969: no solution found
+970: no solution found
+971: no solution found
+972: no solution found
+973: no solution found
+974: no solution found
+975: no solution found
+976 = (4**4)+((4+sqrt(4))!)
+977: no solution found
+978: no solution found
+979: no solution found
+980: no solution found
+981: no solution found
+982: no solution found
+983: no solution found
+984: no solution found
+985: no solution found
+986: no solution found
+987: no solution found
+988: no solution found
+989: no solution found
+990: no solution found
+991: no solution found
+992: no solution found
+993: no solution found
+994: no solution found
+995: no solution found
+996: no solution found
+997: no solution found
+998: no solution found
+999: no solution found
+1000 = ((4!-4)**sqrt(4))/.4
