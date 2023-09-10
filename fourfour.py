@@ -4,15 +4,10 @@ import itertools
 
 # Class responsible for solving the popular four fours math problem. (https://en.wikipedia.org/wiki/Four_fours)
 class FourFours:
-
-	# The num variable defines the problem basis. For example: num = 4 
-	# means the algorithm will compute the four fours problem and 
-	# num = 5 means the algorithm will compute the five fives problem.
-	def __init__(self, num: int=4) -> None:
-		self.num = num
-		self.str_num = str(num)
+	def __init__(self) -> None:
+		self.num = PROBLEM_BASIS
+		self.str_num = str(self.num)
 		concat_num = ''
-		assert self.num >= 1
 		
 		# Initialize a list to contain hash tables. Each table in the list represents how many 
 		# digits were used up to get the key result (e.g. the second hash table contains 
@@ -145,7 +140,6 @@ class FourFours:
 
 # Test.
 if __name__ == '__main__':
-	f = FourFours(6)
-	f.export() 
-		
+	f = FourFours()
+	f.export() 	
 		
